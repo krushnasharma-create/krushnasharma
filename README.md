@@ -1,5 +1,5 @@
 # krushnasharma
-# Hi, I'm Krishna 👋
+# Hi, I'm Krushna 👋
 
 🔐 Cybersecurity Student
 🤖 AI & Machine Learning Enthusiast
